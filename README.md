@@ -54,7 +54,7 @@ then add to startup routine
 
 by adding this (lets wait a good long time, raspberry pi is slow)
 > sleep 30
-> start-pictureframe.sh Personal # (or your default collection name)
+> start-pictureframe.sh personal # (or your default collection name)
 
 setup cron to sync your collections if you're using glone
 or something that needs scheduling:
